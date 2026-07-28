@@ -30,28 +30,4 @@ header {
 }
 .nav .active-link {
   color: #FA4A0C;
-}
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  -webkit-user-select: none;
-     -moz-user-select: none;
-          user-select: none;
-  text-decoration: none;
-}
-
-body {
-  background-color: #b5e0ea;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.container {
-  width: 1440px;
-  height: 2500px;
-  background: #000;
-  margin: 0 auto;
-}/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=header.css.map */
