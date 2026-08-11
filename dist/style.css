@@ -128,9 +128,7 @@ footer .copyright {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  -webkit-user-select: none;
-     -moz-user-select: none;
-          user-select: none;
+  user-select: none;
   text-decoration: none;
 }
 
@@ -146,4 +144,4 @@ body {
   height: 2500px;
   background: #ffffff;
   margin: 0 autos;
-}/*# sourceMappingURL=style.css.map */
+}
