@@ -109,7 +109,7 @@ main .btn-transporant {
 .how .col-left {
   width: 49.275%;
   display: flex;
-  justify-content: center;
+  padding-left: 175px;
   align-items: center;
 }
 .how .col-right {
@@ -147,31 +147,29 @@ main .btn-transporant {
   color: #737373;
 }
 
-.how {
+.explore {
   display: flex;
+  flex-direction: row-reverse;
   flex-wrap: wrap;
   align-items: center;
   width: 1440px;
   height: 619px;
 }
-.how .section-title {
-  width: 100%;
-  text-align: center;
-}
-.how .col-left {
+.explore .col-left {
   width: 49.275%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.how .col-right {
+.explore .col-right {
   width: 50.625%;
+  padding-left: 175px;
 }
-.how .article {
+.explore .explore {
   width: 568px;
   height: 280px;
 }
-.how .article .article-top-title-orange {
+.explore .explore .explore-top-title-orange {
   font-family: Montserrat;
   font-weight: 700;
   font-size: 24px;
@@ -180,7 +178,7 @@ main .btn-transporant {
   letter-spacing: 0.1px;
   color: #FA4A0C;
 }
-.how .article .article-title {
+.explore .explore .explore-title {
   font-family: Montserrat;
   font-weight: 700;
   font-size: 40px;
@@ -189,7 +187,7 @@ main .btn-transporant {
   letter-spacing: 0.2px;
   color: #252B42;
 }
-.how .article .article-text {
+.explore .explore .explore-text {
   font-family: Montserrat;
   font-weight: 500;
   font-size: 24px;
